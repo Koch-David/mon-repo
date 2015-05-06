@@ -14,6 +14,7 @@
 	<label>Last name :</label><jsp:getProperty property="lastName" name="users"/><br/>
 	<label>Vous êtes (un/une) </label><jsp:getProperty property="sex" name="users"/><br/>
 	<label>Anniversaire :</label><jsp:getProperty property="birthDay" name="users"/><br/>
+	<label>Anniversaire 2 :</label><jsp:getProperty property="birthDay" name="users"/><br/>
 
   
 </body>
